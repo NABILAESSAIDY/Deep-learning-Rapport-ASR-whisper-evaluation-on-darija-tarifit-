@@ -1,0 +1,16 @@
+lien pour colab_Darija
+
+https://colab.research.google.com/drive/1GYxhht2tOivFFj2f5gjV2LjOzZzpEija?usp=sharing
+
+lien pour colab_Tarifit
+
+https://colab.research.google.com/drive/1gWj99MiqHnUA_76QsuG7I5EN7pOgS5Um?usp=sharing
+
+lien pour Dataset_Darija
+
+https://huggingface.co/datasets/afyfbadreddine77/darija-asr-dataset
+
+lien pour notebook_Darija
+
+https://www.kaggle.com/code/elkhamlichinada/projet-dl
+
